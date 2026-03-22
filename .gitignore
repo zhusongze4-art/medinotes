@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+build/
+
+# Database files
+*.duckdb
+*.duckdb.wal
+*.rdb
+chroma_db/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Hugging Face model cache
+*.safetensors

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+duckdb
+transformers
+torch
+pydantic
+chromadb
+sentence-transformers
